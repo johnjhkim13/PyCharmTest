@@ -5,3 +5,7 @@ print("Hello World2")
 
 # adding item in Master branch
 print("Hello World 3")
+
+
+# adding new items in hotfix
+print("Hello World 4")
